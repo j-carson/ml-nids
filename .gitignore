@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 raw/*
+.DS_Store
 .DS_Store/* 
 
